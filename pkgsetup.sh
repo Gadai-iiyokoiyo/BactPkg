@@ -1,6 +1,4 @@
-wget "https://github.com/Gadai-iiyokoiyo/BactPkg/blob/Example/hello?raw=true" -O "Example/hello"
-wget "https://raw.githubusercontent.com/Gadai-iiyokoiyo/BactPkg/Example/Example.sh" -O "Example/Example.sh"
+wget "https://github.com/Gadai-iiyokoiyo/BactPkg/blob/BactLua/hello?raw=true" -O "BactLua/Main"
 clear
-./Example/hello
+./BactLua/Main
 echo ""
-sh Example/Example.sh
