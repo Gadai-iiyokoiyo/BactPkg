@@ -1,6 +1,6 @@
-function ver(){
+function ver() {
   echo "Example 1"
 }
-function ExampleFunction(){
+function ExampleFunction() {
   echo "Hello"
 }
